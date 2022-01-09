@@ -1,3 +1,5 @@
+package homeworks.day2.hw1;
+
 public class Main {
     public static void main(String[] args) {
         Course course1 =new Course(1,"Yazılım Geliştirme Kampı (C# + Angular)","Engin Demiroğ","2 ay s�recek �cretsiz ve profesyonel bir programla, s�f�rdan yaz�l�m geli�tirme ��reniyoruz..");

@@ -1,3 +1,5 @@
+package homeworks.day2.hw1;
+
 public class Course {
     int id;
     String name;
@@ -11,7 +13,5 @@ public class Course {
         this.instructor=instructor;
         this.detail=detail;
 
-
     }
-
 }
