@@ -1,7 +1,7 @@
 package inheritance;
 
 public class Customer {
-    private  int id;
-    private String customerNumber;
+    int id;
+    String customerNumber;
 
 }
